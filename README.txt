@@ -1,0 +1,1 @@
+Colocar todos os arquivos .txt no mesmo diretório do arquivo .cpp para poderem ser acessados.

@@ -1,0 +1,3 @@
+Otima,Boa,Regular,Ruim,Pessima
+0,0,0,0,0,
+
